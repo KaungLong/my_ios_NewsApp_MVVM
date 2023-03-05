@@ -17,17 +17,19 @@ class NewsTableViewController: UITableViewController {
   
     override func viewDidLoad() {
         super.viewDidLoad()
+
         view.backgroundColor = UIColor(displayP3Red: 142/255, green: 68/255, blue: 173/255, alpha: 1.0)
-        tableView.backgroundColor = .white
+
         tableView.register(ArticleTableViewCell.self, forCellReuseIdentifier: "ArticleTableViewCell")
-     
         setupNavigationUI()
         populateNews()
+        
     }
 
     func setupNavigationUI() {
         title = "NewsAPI"
         self.navigationController?.navigationBar.prefersLargeTitles = true
+        
     }
     
     override func numberOfSections(in tableView: UITableView) -> Int {
