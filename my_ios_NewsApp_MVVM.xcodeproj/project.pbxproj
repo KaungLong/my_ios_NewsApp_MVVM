@@ -16,7 +16,7 @@
 		419A9BB629B4843700D8A5DC /* ArticleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419A9BB529B4843700D8A5DC /* ArticleViewModel.swift */; };
 		419A9BB929B4898800D8A5DC /* URLRequest+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419A9BB829B4898800D8A5DC /* URLRequest+Extensions.swift */; };
 		419A9BC129B48F8D00D8A5DC /* ArticleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419A9BC029B48F8D00D8A5DC /* ArticleTableViewCell.swift */; };
-		419A9C0529B6ED2E00D8A5DC /* NewsApp_MVVM_Demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 419A9C0429B6ED2E00D8A5DC /* NewsApp_MVVM_Demo.gif */; };
+		419A9C0729B6F01300D8A5DC /* NewsApp_MVVM_demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 419A9C0629B6F01200D8A5DC /* NewsApp_MVVM_demo.gif */; };
 		4EFD4BF23A25E4123723D331 /* Pods_my_ios_NewsApp_MVVM.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38D3A8D1DF355606E0C71EFA /* Pods_my_ios_NewsApp_MVVM.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,7 +33,7 @@
 		419A9BB529B4843700D8A5DC /* ArticleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleViewModel.swift; sourceTree = "<group>"; };
 		419A9BB829B4898800D8A5DC /* URLRequest+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URLRequest+Extensions.swift"; sourceTree = "<group>"; };
 		419A9BC029B48F8D00D8A5DC /* ArticleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleTableViewCell.swift; sourceTree = "<group>"; };
-		419A9C0429B6ED2E00D8A5DC /* NewsApp_MVVM_Demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = NewsApp_MVVM_Demo.gif; sourceTree = "<group>"; };
+		419A9C0629B6F01200D8A5DC /* NewsApp_MVVM_demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = NewsApp_MVVM_demo.gif; sourceTree = "<group>"; };
 		49294019C0A8297403E35CF3 /* Pods-my_ios_NewsApp_MVVM.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-my_ios_NewsApp_MVVM.release.xcconfig"; path = "Target Support Files/Pods-my_ios_NewsApp_MVVM/Pods-my_ios_NewsApp_MVVM.release.xcconfig"; sourceTree = "<group>"; };
 		956AAB553C24D0A719024C82 /* Pods-my_ios_NewsApp_MVVM.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-my_ios_NewsApp_MVVM.debug.xcconfig"; path = "Target Support Files/Pods-my_ios_NewsApp_MVVM/Pods-my_ios_NewsApp_MVVM.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,7 +129,7 @@
 		419A9C0329B6ED0100D8A5DC /* Demo */ = {
 			isa = PBXGroup;
 			children = (
-				419A9C0429B6ED2E00D8A5DC /* NewsApp_MVVM_Demo.gif */,
+				419A9C0629B6F01200D8A5DC /* NewsApp_MVVM_demo.gif */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -211,9 +211,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				419A9C0729B6F01300D8A5DC /* NewsApp_MVVM_demo.gif in Resources */,
 				419A9BA829B4720D00D8A5DC /* LaunchScreen.storyboard in Resources */,
 				419A9BA529B4720D00D8A5DC /* Assets.xcassets in Resources */,
-				419A9C0529B6ED2E00D8A5DC /* NewsApp_MVVM_Demo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
