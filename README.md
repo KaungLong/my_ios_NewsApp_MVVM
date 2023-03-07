@@ -12,6 +12,7 @@ Hello, I'm KaungLong, an IOS Developer.This project is an exercise in building M
 - RxSwift used
 - Restful API Network
 - Auto-layout with SnapKit programmatically
+- simple dynamic title
 ## Demo
 ---
 <img src="https://github.com/KaungLong/my_ios_NewsApp_MVVM/blob/main/Demo/NewsApp_MVVM_Demo.gif">
