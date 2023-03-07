@@ -53,7 +53,6 @@
 		419A9B8F29B4720A00D8A5DC = {
 			isa = PBXGroup;
 			children = (
-				419A9C0329B6ED0100D8A5DC /* Demo */,
 				419A9B9A29B4720A00D8A5DC /* my_ios_NewsApp_MVVM */,
 				419A9B9929B4720A00D8A5DC /* Products */,
 				F637B4E2A5536AB0F10255CA /* Pods */,
@@ -72,6 +71,7 @@
 		419A9B9A29B4720A00D8A5DC /* my_ios_NewsApp_MVVM */ = {
 			isa = PBXGroup;
 			children = (
+				419A9C0329B6ED0100D8A5DC /* Demo */,
 				419A9B9B29B4720A00D8A5DC /* AppDelegate.swift */,
 				419A9B9D29B4720A00D8A5DC /* SceneDelegate.swift */,
 				419A9BB729B4897700D8A5DC /* URLRequest+Extensions */,
