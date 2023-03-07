@@ -15,4 +15,4 @@ Hello, I'm KaungLong, an IOS Developer.This project is an exercise in building M
 - simple dynamic title
 ## Demo
 ---
-<img src="https://github.com/KaungLong/my_ios_NewsApp_MVVM/blob/main/Demo/NewsApp_MVVM_Demo.gif">
+<img src="https://github.com/KaungLong/my_ios_NewsApp_MVVM/blob/main/NewsApp_MVVM_demo.gif">
