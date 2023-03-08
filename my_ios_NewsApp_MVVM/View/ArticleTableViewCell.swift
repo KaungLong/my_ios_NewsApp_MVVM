@@ -12,7 +12,6 @@ import SnapKit
 class ArticleTableViewCell: UITableViewCell {
     
     // MARK: - Properties
-    
     let titleLabel: UILabel = {
         let label = UILabel()
         label.font = UIFont.systemFont(ofSize: 16, weight: .semibold)
@@ -30,8 +29,7 @@ class ArticleTableViewCell: UITableViewCell {
         return label
     }()
     
-    // MARK: - Initializers
-    
+    // MARK: - Init
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         
